@@ -1,0 +1,9 @@
+button{
+    background-color: #555;
+    color: white;
+    /* align-content: center; */
+    padding: 15px 32px;
+    font-size: larger;
+    cursor: pointer;
+    margin: 40vh 90vh;
+}
